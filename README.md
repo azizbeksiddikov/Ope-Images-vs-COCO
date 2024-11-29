@@ -60,6 +60,8 @@ Since ground-truth annotations were not used, the models are evaluated using the
 - **Bounding Box Confidence Scores**: Analyze the confidence levels of predicted bounding boxes as an indicator of model certainty.
 - **Temporal Consistency**: For video data, evaluate the stability of detections across consecutive frames, including object tracking and bounding box overlap.
 
+---
+
 ## Results
 
 ### Open Images Output
