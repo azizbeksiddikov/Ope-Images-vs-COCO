@@ -7,8 +7,8 @@ This project compares the performance of YOLO pretrained models on object detect
 1. [Introduction](#introduction)
 2. [Datasets](#datasets)
 3. [Models](#models)
-4. [Evaluation Metrics] (#evaluation)
-5. [Results] (#results)
+4. [Evaluation Metrics](#evaluation-metrics)
+5. [Results](#results)
 ---
 
 ## Introduction
