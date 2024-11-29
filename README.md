@@ -7,7 +7,8 @@ This project compares the performance of YOLO pretrained models on object detect
 1. [Introduction](#introduction)
 2. [Datasets](#datasets)
 3. [Models](#models)
-
+4. [Evaluation Metrics] (#evaluation)
+5. [Results] (#results)
 ---
 
 ## Introduction
@@ -64,10 +65,12 @@ Since ground-truth annotations were not used, the models are evaluated using the
 ### Open Images Output
 ![Open Images Output](results/open_image.jpg)
 
-[Sample Video Output (Open Images)](results/open_video.mp4)
+[Sample Video Output (Open Images)](https://drive.google.com/drive/folders/19NRMRFyKVpB_aCXMlG0_fifoF34pyvkv?usp=sharing)
 
 ### COCO Output
 ![COCO Output](results/coco_image.jpg)
 
-[Sample Video Output (COCO)](results/coco_video.mp4)
+[Sample Video Output (COCO)](https://drive.google.com/drive/folders/19NRMRFyKVpB_aCXMlG0_fifoF34pyvkv?usp=sharing)
+
+
 
